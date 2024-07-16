@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonçalo Costa</h1>
-<h3 align="center">Sou linde</h3>
+<h3 align="center">IPCA-LESI</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
