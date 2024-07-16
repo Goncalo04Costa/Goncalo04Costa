@@ -1,6 +1,6 @@
 # Hi, I'm  Gonçalo Costa👋
 
-** About Me **
+**About Me **
 
 💻 I 
 
