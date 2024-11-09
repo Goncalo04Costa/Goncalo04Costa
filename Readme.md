@@ -1,4 +1,4 @@
-# 👋 Olá, sou Gonçalo Costa
+# 👋 Olá, sou  o Gonçalo!
 
 Sou um estudante de Engenharia de Sistemas Informáticos no IPCA. 
 
