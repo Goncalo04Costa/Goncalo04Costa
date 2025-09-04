@@ -1,15 +1,16 @@
 <h1 align="center">👋 Olá, sou o Gonçalo Costa</h1>
 <h3 align="center">💻 Licenciado em Engenharia de Sistemas Informáticos pelo IPCA</h3>
 <h4 align="center">👨‍💻 Atualmente a trabalhar na <a href="https://pt.nttdata.com/" target="_blank">NTT DATA</a> como Assistant Engineer</h4>
-<h4 align="center">📚 Atualmente a frequentar o Mestrado em Engenharia Informática no IPCA</h4>
+<h4 align="center">📚 Frequento o Mestrado em Engenharia Informática no IPCA</h4>
 
 ---
 
 ### 🚀 Sobre mim:
-- 🔭 Atualmente focado em **desenvolvimento de aplicações móveis (Kotlin, Jetpack Compose)** e **APIs em C# / .NET**
-- 🌱 Sempre em constante aprendizagem, explorando novas tecnologias e metodologias
-- 👯 Aberto a colaborar em projetos de **software engineering**, **IA**, **ETL** e **sistemas inteligentes**
-- ⚡ Curiosidade: gosto de resolver problemas e otimizar processos, desde **bases de dados** até **interfaces intuitivas**
+- 🔭 Atualmente focado em **desenvolvimento de software**, desde backend até aplicações móveis e web  
+- 🌱 Sempre em constante aprendizagem, explorando novas tecnologias, arquiteturas e metodologias de desenvolvimento  
+- 👯 Aberto a colaborar em projetos desafiantes e a contribuir em equipas multidisciplinares  
+- ⚡ Curiosidade: tenho gosto em **resolver problemas complexos** e **otimizar processos**, seja em **bases de dados**, **integração de sistemas** ou **interfaces intuitivas**
+
 
 ---
 
@@ -18,7 +19,14 @@
 <a href="https://www.linkedin.com/in/gon%C3%A7alo-costa-3b3230288/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
+<a href="https://www.instagram.com/goncalo04costa/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+<a href="https://x.com/Goncalo__Costa" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+</a>
 </p>
+
 
 ---
 
