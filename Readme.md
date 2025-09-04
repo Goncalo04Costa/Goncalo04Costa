@@ -1,5 +1,6 @@
-<h1 align="center">👋 Olá, eu sou o Gonçalo Costa</h1>
+<h1 align="center">👋 Olá, sou o Gonçalo Costa</h1>
 <h3 align="center">💻 Licenciado em Engenharia de Sistemas Informáticos pelo IPCA</h3>
+<h4 align="center">👨‍💻 Atualmente a trabalhar na <a href="https://pt.nttdata.com/" target="_blank">NTT DATA</a> como Assistant Engineer</h4>
 <h4 align="center">📚 Atualmente a frequentar o Mestrado em Engenharia Informática no IPCA</h4>
 
 ---
