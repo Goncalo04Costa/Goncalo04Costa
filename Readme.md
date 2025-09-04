@@ -62,10 +62,3 @@
 
 ---
 
-### ✨ Projetos em destaque:
-- 🚘 **[Sistema Inteligente de Gestão de Estacionamento](#)** – IoT + Arduino + C
-- 🏥 **[Gestão da UCCI - Santa Casa da Misericórdia](#)** – React + .NET + SQL Server  
-- 🛒 **[App de Supermercado](#)** – Kotlin + Firebase + Room  
-- 🛰️ **[AstroDominion](#)** – Cibersegurança para infraestruturas espaciais  
-
----
